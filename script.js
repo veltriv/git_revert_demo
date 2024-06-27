@@ -71,5 +71,3 @@ $(function () {
     placeholder: 'ui-state-highlight',
   });
 });
-
-//end of code
